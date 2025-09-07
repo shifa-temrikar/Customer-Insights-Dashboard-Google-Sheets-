@@ -1,4 +1,5 @@
 📊 Customer Insights Dashboard (Google Sheets)
+
 🔍 Project Overview
 
 This project demonstrates the use of Google Sheets for quick analysis and dashboarding.
